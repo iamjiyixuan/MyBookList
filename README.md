@@ -34,9 +34,10 @@
 --- | --- |
 --- | --- |
 [《JAVA核心技术（卷1）》][JAVA核心技术（卷1）]  <br/>作者：Cay S. Horstmann / Gary Cornell  <br/>译者：杜永萍 / 邝劲筠 / 叶乃文 <br/><br/><img src="./images/JAVA核心技术（卷1）.jpg" height="350px" /> | [《JAVA核心技术（卷2）》][JAVA核心技术（卷2）]  <br/>作者：Cay S. Horstmann / Gary Cornell  <br/>译者：陈昊鹏 / 王浩 / 姚建平 <br/><br/><img src="./images/JAVA核心技术（卷2）.jpg" height="350px" /> |
-[《Java编程思想》][Java编程思想]  <br/>作者：Bruce Eckel  <br/>译者：陈昊鹏 <br/><br/><img src="./images/Java编程思想.jpg" height="350px" /> | [《Java并发编程实战》][Java并发编程实战]  <br/>作者：Brian Goetz / Tim Peierls / Joshua Bloch / Joseph Bowbeer / David Holmes / Doug Lea   <br/>译者：童云兰  <br/><br/><img src="./images/Java并发编程实战.jpg" height="350px" /> |
-[《轻量级Java EE企业应用实战：Struts 2+Spring 4+Hibernate整合开发》][轻量级Java EE企业应用实战：Struts 2+Spring 4+Hibernate整合开发]  <br/>作者：李刚  <br/> <br/><br/><img src="./images/轻量级Java EE企业应用实战：Struts 2+Spring 4+Hibernate整合开发.jpg" height="350px" /> | [《Spring技术内幕》][Spring技术内幕]  <br/>作者：计文柯 <br/> <br/><br/><img src="./images/Spring技术内幕.jpg" height="350px" /> |
-[《深入剖析Tomcat》][深入剖析Tomcat]  <br/>作者：Budi Kurniawan / Paul Deck <br/>译者：曹旭东  <br/><br/><img src="./images/深入剖析Tomcat.jpg" height="350px" /> | 
+[《Java编程思想》][Java编程思想]  <br/>作者：Bruce Eckel  <br/>译者：侯捷  <br/><br/><img src="./images/Java编程思想.jpg" height="350px" /> | [《Java并发编程实战》][Java并发编程实战]  <br/>作者：Brian Goetz / Tim Peierls / Joshua Bloch / Joseph Bowbeer / David Holmes / Doug Lea   <br/>译者：童云兰  <br/><br/><img src="./images/Java并发编程实战.jpg" height="350px" /> |
+[《轻量级Java EE企业应用实战：Struts 2+Spring 4+Hibernate整合开发》][轻量级Java EE企业应用实战：Struts 2+Spring 4+Hibernate整合开发]  <br/>作者：李刚  <br/> <br/><br/><img src="./images/轻量级Java EE企业应用实战：Struts 2+Spring 4+Hibernate整合开发.jpg" height="350px" /> | [《深入剖析Tomcat》][深入剖析Tomcat]  <br/>作者：Budi Kurniawan / Paul Deck <br/>译者：曹旭东 <br/><br/><img src="./images/深入剖析Tomcat.jpg" height="350px" /> |
+[《Struts2技术内幕》][Struts2技术内幕]  <br/>作者：陆舟  <br/> <br/><br/><img src="./images/Struts2技术内幕.jpg" height="350px" /> | [《Spring技术内幕》][Spring技术内幕]  <br/>作者：计文柯 <br/> <br/><br/><img src="./images/Spring技术内幕.jpg" height="350px" /> |
+[《重构：改善既有代码的设计》][重构：改善既有代码的设计] <br/>作者：Martin Fowler <br/>译者：熊节 <br/><br/><img src="./images/重构：改善既有代码的设计.jpg" height="350px" /> |
 
 ## Web前端
 --- | --- |
@@ -86,11 +87,13 @@
 [Java开发]: ""
 [JAVA核心技术（卷1）]:http://book.douban.com/subject/3146174/ "JAVA核心技术（卷1）"
 [JAVA核心技术（卷2）]:http://book.douban.com/subject/3360866/ "JAVA核心技术（卷2）"
-[Java编程思想]:http://book.douban.com/subject/2130190/ "Java编程思想"
+[Java编程思想]:http://book.douban.com/subject/1101158/ "Java编程思想"
 [Java并发编程实战]:http://book.douban.com/subject/10484692/ "Java并发编程实战"
 [轻量级Java EE企业应用实战：Struts 2+Spring 4+Hibernate整合开发]:http://book.douban.com/subject/26164624/ "轻量级Java EE企业应用实战：Struts 2+Spring 4+Hibernate整合开发"
 [Spring技术内幕]:http://book.douban.com/subject/4199483/ "Spring技术内幕"
+[Struts2技术内幕]:http://book.douban.com/subject/7154446/ "Struts2技术内幕"
 [深入剖析Tomcat]:http://book.douban.com/subject/10426640/ "深入剖析Tomcat"
+[重构：改善既有代码的设计]:http://book.douban.com/subject/4262627/ "重构：改善既有代码的设计"
 
 [Web前端开发]: ""
 [JavaScript高级程序设计]:http://book.douban.com/subject/10546125/ "JavaScript高级程序设计"
